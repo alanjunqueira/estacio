@@ -1,0 +1,12 @@
+O(n) - Linear: O tempo de execução cresce na mesma proporção que a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo também dobra. (Ex: O melhor caso do Bubble Sort).
+O(n^2) - Quadrático: O tempo de execução cresce quadráticamente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo quadruplica. (Ex: O pior caso do Bubble Sort).
+O(n^3) - Cúbico: O tempo de execução cresce cúbicamente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo oito vezes maior. (Ex: O pior caso do Bubble Sort).
+O(2^n) - Exponencial: O tempo de execução cresce exponencialmente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo dobra. (Ex: O pior caso do Bubble Sort).
+O(n!) - Fatorial: O tempo de execução cresce fatorialmente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo fatorial vezes maior. (Ex: O pior caso do Bubble Sort).
+O(log n) - Logarítmico: O tempo de execução cresce logaritmicamente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo aumenta em uma constante. (Ex: O melhor caso do Bubble Sort).
+O(n log n) - Logarítmico linear: O tempo de execução cresce logaritmicamente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo aumenta em uma constante. (Ex: O melhor caso do Bubble Sort, Merge Sort).
+O(n^2 log n) - Quadrático logarítmico: O tempo de execução cresce quadráticamente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo aumenta em uma constante. (Ex: O melhor caso do Bubble Sort, Merge Sort).
+O(n^3 log n) - Cúbico logarítmico: O tempo de execução cresce cúbicamente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo aumenta em uma constante. (Ex: O melhor caso do Bubble Sort, Merge Sort).
+O(2^n log n) - Exponencial logarítmico: O tempo de execução cresce exponencialmente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo aumenta em uma constante. (Ex: O melhor caso do Bubble Sort, Merge Sort).
+O(n!) log n) - Fatorial logarítmico: O tempo de execução cresce fatorialmente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo aumenta em uma constante. (Ex: O melhor caso do Bubble Sort, Merge Sort).
+O(n!) log n) - Fatorial logarítmico: O tempo de execução cresce fatorialmente com a entrada. Se a lista dobrar de tamanho, o tempo para executar o algoritmo aumenta em uma constante. (Ex: O melhor caso do Bubble Sort, Merge Sort).

@@ -1,0 +1,7 @@
+package abstract_classes;
+
+class Gato extends Animal {
+  public void emitirSom() {
+      System.out.println("Miar!");
+  }
+}
